@@ -4,7 +4,7 @@ This image contains an initial database schema with filled up `languages` table.
 
 ## Run image
 
-To run this image invoke `docker run -e POSTGRES_PASSWORD=<password> jagiellonian/frege-postgres:<version>`
+To run this image invoke `docker run -e POSTGRES_PASSWORD=<password> jagiellonian/frege-postgres`
 
 For more options see a [PostgreSQL docker image description](https://hub.docker.com/_/postgres?tab=description&page=1&ordering=-name)
 
